@@ -6,6 +6,7 @@ public class Class1 {
 		
 		System.out.println("Hello world");
 		int number = 71;
+		double num = 34.5;
 
 	}
 
