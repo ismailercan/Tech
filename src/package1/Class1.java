@@ -8,6 +8,9 @@ public class Class1 {
 		int number = 71;
 		double num = 34.5;
 		//here my changes
+		
+		System.out.println("Hi guys");
+		System.out.println("Hi guys");
 
 	}
 
